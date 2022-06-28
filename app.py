@@ -17,6 +17,7 @@ tag_df = pd.read_csv("data/tag_df.csv")
 TOTAL_COUNT = len(an_df)
 
 TONE_DICT = {'Neutral':0, 'Positive':1, 'Negative':-1}
+COMPANY = "publicrelay"
 
 def getTitleAndBodyByAnalysisId(analysisId):
     entry = an_df[an_df['analysis_id']==analysisId]
@@ -117,7 +118,7 @@ def submitAnswers(answers):
     print(name,"->",answers)
 
     # Trying to insert a single document
-    doc = {"answers":answers, "name":name}
+    doc = {"answers":answers, "name":name, "company":COMPANY}
     surveys_collection.insert_one(doc)
     return name
 
