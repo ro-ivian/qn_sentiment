@@ -1,0 +1,101 @@
+100. Wicket
+99. Moff Gideon's Scout Trooper
+98. The Bendu
+97. Elan Sleazebaggano
+96. Dexter Jettster
+95. Moff Gideon
+94. Babu Frik
+93. Sy Snootles
+92. Captain Phasma
+91. Orka
+90. Flix
+89. FN-2199
+88. Grand Inquisitor
+87. Ki-Adi-Mundi
+86. General Maximilian Veers
+85. Maz Kanata
+84. Migs Mayfeld
+83. Uncle Owen
+82. Aunt Beru
+81. Wrecker
+80. General Hux
+79. Duchess Satine Kryze
+78. Shmi Skywalker
+77. Saw Gerrera
+76. Zam Wesell
+75. Bo-Katan Kryze
+74. DJ
+73. IG-11
+72. Plo Koon
+71. Sebulba
+70. Ezra Bridger
+69. Malakili the Rancor Keeper
+68. Greef Karga
+67. Biggs Darklighter
+66. Nien Nunb
+65. Jango Fett
+64. L3-37
+63. Admiral Piett
+62. Sabine Wren
+61. Peli Motto
+60. Bossk
+59. Count Dooku
+58. Galen Erso
+57. Max Rebo
+56. Kuiil
+55. Greedo
+54. Asajj Ventress
+53. Chopper
+52. Fennec Shand
+51. Bib Fortuna
+50. Grand Moff Tarkin
+49. Paige Tico
+48. Mon Mothma
+47. Cad Bane
+46. General Grievous
+45. Wedge Antilles
+44. The Client
+43. Salacious B. Crumb
+42. Orson Krennic
+41. Bail Organa
+40. Cobb Vanth
+39. Lobot
+38. Jyn Erso
+37. Captain Rex
+36. Qui-Gon Jinn
+35. Finn
+34. Boba Fett
+33. Kanan Jarrus
+32. Cassian Andor
+31. BB-8
+30. Kit Fisto
+29. Grand Admiral Thrawn
+28. Grogu
+27. Hera Syndulla
+26. Padmé Amidala
+25. Admiral Ackbar
+24. Rose Tico
+23. Chirrut Imwe
+22. Baze Malbus
+21. Vice Admiral Amilyn Holdo
+20. C-3PO
+19. Din Djarin
+18. Poe Dameron
+17. Mace Windu
+16. Darth Maul
+15. K-2SO
+14. Jabba the Hutt
+13. Kylo Ren
+12. R2-D2
+11. Palpatine
+10. Lando Calrissian
+9. Chewbacca
+8. Ahsoka Tano
+7. Luke Skywalker
+6. Rey
+5. Obi-Wan Kenobi
+4. Han Solo
+3. Yoda
+2. Darth Vader
+1. Anakin Skywalker
+0. Leia Organa
