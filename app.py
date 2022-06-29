@@ -10,6 +10,8 @@ from sklearn.metrics import classification_report
 
 import streamlit as st
 
+from datetime import datetime
+
 
 an_df = pd.read_csv("data/an_df.csv")
 tag_df = pd.read_csv("data/tag_df.csv")
@@ -118,7 +120,7 @@ def submitAnswers(answers):
     print(name,"->",answers)
 
     # Trying to insert a single document
-    doc = {"answers":answers, "name":name, "company":COMPANY}
+    doc = {"answers":answers, "name":name, "company":COMPANY, "ts":datetime.now()}
     surveys_collection.insert_one(doc)
     return name
 
