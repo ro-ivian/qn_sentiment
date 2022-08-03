@@ -19,7 +19,7 @@ tag_df = pd.read_csv("data/tag_df.csv")
 TOTAL_COUNT = len(an_df)
 
 TONE_DICT = {'Neutral':0, 'Positive':1, 'Negative':-1}
-COMPANY = "publicrelay"
+COMPANY = "quoininc"
 
 def getTitleAndBodyByAnalysisId(analysisId):
     entry = an_df[an_df['analysis_id']==analysisId]
